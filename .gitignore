@@ -1,0 +1,6 @@
+# Ignore these files
+*.log
+thumbs.db
+*.tmp
+.vscode/
+.env
